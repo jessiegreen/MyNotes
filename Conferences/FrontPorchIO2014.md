@@ -1,4 +1,6 @@
-- @texascode
+# Bullet Points
+
+- Code Collective Group @texascode
 - Scratch for kids
 - Three.js
 - Capistrano
